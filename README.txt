@@ -18,17 +18,10 @@ O **QR Code Lince Farm** é uma aplicação gráfica em Python que permite gerar
 
 ## 📂 Estrutura de Pastas
 
-```
-QR_Code_Lince_Farm/
-│
-├── assets/                  # Imagens e logos opcionais (pode estar vazia)
-│ 
-│
+``
+
 ├── dist/                    
 │   └── qrcodegenerator.exe  # Arquivo executável do programa
-│
-├── icons/                   # Ícones do aplicativo
-│   └── icon.ico
 │
 ├── src/                     
 │   └── qrcodegenerator.py   # Código Python principal
